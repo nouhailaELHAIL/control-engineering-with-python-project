@@ -23,4 +23,5 @@
   [@c-joly](https://github.com/c-joly) and [@JAuriol81](https://github.com/JAuriol81). 
   Add your names in the [README](README.md) ("Student Group" section).
 
-  3. **📔 Hack the notebook!** Edit [the Jupyter notebook](project.ipynb).
+  3. **📔 Hack the notebook!** Edit [the Jupyter notebook](project.ipynb) and complete its tasks.
+     Make sure that you regularly save your progress in the GitHub repository (if you're not familiar with GitHub, follow these [instructions to upload your updated notebook file](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository))
