@@ -12,15 +12,15 @@
 
 ## Getting Started
 
-  0. **Sign into GitHub.** [Create a GitHub account](https://github.com/join) if necessary.
+  0. **:octocat: Sign into GitHub.** [Create a GitHub account](https://github.com/join) if necessary.
 
-  1. **Create your own project.** In each group, one student creates a repository.
+  1. **🎉 Create your own project.** In each group, one student creates a repository.
   Use this project as a starting point: click the [![Use this template](https://img.shields.io/badge/-Use%20this%20template-%232ea44f)](https://github.com/boisgera/control-engineering-with-python-project/generate) button and fill in the form.
   Make sure that this repository is 🔒 **private**.
 
-  2. **Register collaborators.**  Invite all students in the group as collaborators 
+  2. **👥 Register collaborators.**  Invite all students in the group as collaborators 
   (Settings / Manage Access), then invite [@boisgera](https://github.com/boisgera), 
   [@c-joly](https://github.com/c-joly) and [@JAuriol81](https://github.com/JAuriol81). 
   Add your names in the `README.md` file (in the "Student Group" section).
 
-  3. **Hack!** Edit [📔 your notebook](project.ipynb) with Jupyter notebook.
+  3. **📔 Hack the notebook!** Edit [the Jupyter notebook](project.ipynb).
