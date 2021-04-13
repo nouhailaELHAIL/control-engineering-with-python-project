@@ -1,5 +1,7 @@
 # Control Engineering with Python – 🚀 Project
 
+[:octocat: Course repository](https://github.com/boisgera/control-engineering-with-python).
+
 ## Student Group
 
   - Student 1: ❔
