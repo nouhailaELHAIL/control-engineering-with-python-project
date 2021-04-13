@@ -21,6 +21,6 @@
   2. **👥 Register collaborators.**  Invite all students in the group as collaborators 
   (Settings / Manage Access), then invite [@boisgera](https://github.com/boisgera), 
   [@c-joly](https://github.com/c-joly) and [@JAuriol81](https://github.com/JAuriol81). 
-  Add your names in the `README.md` file (in the "Student Group" section).
+  Add your names in the [README](README.md) ("Student Group" section).
 
   3. **📔 Hack the notebook!** Edit [the Jupyter notebook](project.ipynb).
