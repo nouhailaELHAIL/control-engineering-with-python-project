@@ -19,5 +19,5 @@
   Make sure that this repository is 🔒 **private**.
 
   2. **Register collaborators.**  Invite all students in the group as well as @boisgera,
-  @c-joly and @JAuriol81 as collaborators (`Settings / Manage Access`). Add the
-  names of the students in the `README.ms` file (in the "Student Group" section above).
+  @c-joly and @JAuriol81 as collaborators (Settings / Manage Access). Add the
+  names of the students in the `README.md` file (in the "Student Group" section above).
