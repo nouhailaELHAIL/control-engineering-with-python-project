@@ -1,5 +1,15 @@
 # Control Engineering with Python – 🚀 Project
 
+## Student Group
+
+  - Student 1: ❔
+
+  - Student 2: ❔
+
+  - Student 3: ❔
+
+  - Student 4: ❔
+
 ## Instructions
 
   0. **Sign into GitHub.** [Create a GitHub account](https://github.com/join) if necessary.
