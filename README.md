@@ -27,4 +27,4 @@
     Add your names in the [README](README.md) ("Student Group" section).
 
   3. **📔 Hack the notebook!**  
-     Download the project files (![Code](https://img.shields.io/badge/-Code-%232ea44f) button), then edit [the Jupyter notebook](project.ipynb) and complete its tasks. Make sure that you regularly save your progress in your GitHub repository (learn [how to upload files](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository)).
+     Download [📁 the project files](https://github.com/boisgera/control-engineering-with-python-project/archive/refs/heads/master.zip), then edit [the Jupyter notebook](project.ipynb) and complete its tasks. Make sure that you regularly save your progress in your GitHub repository (learn [how to upload files](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository)).
