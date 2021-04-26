@@ -2,7 +2,9 @@
 
 [:house: Course repository](https://github.com/boisgera/control-engineering-with-python)
 
-## Student Group
+## Team
+
+🖥 Teams "Meet" URL: ❔
 
   - Student 1: ❔
 
