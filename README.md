@@ -4,7 +4,7 @@
 
 ## Team
 
-🖥 Teams "Meet" URL: ❔
+🖥 Teams meeting URL: ❔
 
   - Student 1: ❔
 
